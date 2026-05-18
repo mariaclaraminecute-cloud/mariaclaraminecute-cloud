@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=header&text=Clara%20🌸&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
 
-# 🌸 Oii, eu sou a Clara! 🌸
+<p>
+💻 Estudante de Desenvolvimento de Sistemas <br>
+🎧 ATINY de coração ♡
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=FF8DC7&center=true&vCenter=true&width=500&lines=💻+Estudante+de+Desenvolvimento+de+Sistemas;🎧+ATINY+de+coração;🌷+HTML+•+CSS+•+JavaScript" />
-
-<br><br>
-
-<img src="https://media.tenor.com/DimzPZMypFcAAAAi/love-heart.gif" width="120">
-
-### 💗 Tecnologias
-`HTML` • `CSS` • `JavaScript`
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&pause=1000&color=FF8DC7&center=true&width=320&lines=HTML+•+CSS+•+JavaScript" />
 
 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
