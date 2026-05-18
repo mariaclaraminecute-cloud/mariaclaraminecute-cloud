@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#ff8dc7;">𝜗𝜚 ₊ ⊹ Oii, eu sou a Maria Clara! 🌷</span>
+  <span style="color:#ff8dc7;">𝜗𝜚 ₊ ⊹ Oii, eu sou a Clara! 🌷</span>
 </h1>
 
 <p align="center">
