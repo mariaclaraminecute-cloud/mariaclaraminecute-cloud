@@ -7,7 +7,7 @@
 🎧 ATINY de coração ♡
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&pause=1000&color=FF8DC7&center=true&width=320&lines=💗+HTML;🌸+CSS;🎀+JavaScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&pause=1000&color=FF8DC7&center=true&vCenter=true&width=320&lines=HTML+-+CSS+-+JavaScript" />
 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
 </div>
