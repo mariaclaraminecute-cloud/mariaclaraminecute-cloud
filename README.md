@@ -8,6 +8,9 @@
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&pause=1000&color=FF8DC7&center=true&vCenter=true&width=320&lines=HTML+-+CSS+-+JavaScript" />
+
+<p align="center">
 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+</p>
 
 </div>
