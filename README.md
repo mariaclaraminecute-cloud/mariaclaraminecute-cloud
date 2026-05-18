@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">
+  <span style="color:#ff8dc7;">𝜗𝜚 ₊ ⊹ Oii, eu sou a Maria Clara! 🌷</span>
+</h1>
 
-<!--
-**mariaclaraminecute-cloud/mariaclaraminecute-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <span style="color:#ff9ecf;">
+💻 Estudante de Desenvolvimento de Sistemas <br>
+🎧 ATINY de coração — ouvindo ATEEZ ♡
+  </span>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="color:#ff7eb6;">
+
+💗 `HTML` • `CSS` • `JavaScript` 
+
+</span>
+
+</div>
+
+<p align="center">
+  <span style="color:#ff69b4;">
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+  </span>
+</p>
