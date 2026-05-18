@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8d/62/79/8d62798e1f5cb6c6a1a0f9c5e4e7d7f4.gif" width="100%">
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="100%">
 
-𝜗𝜚 ₊ ⊹ Oii, eu sou a Clara! 🌷
+# 🌸 Oii, eu sou a Clara! 🌸
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=FF8DC7&center=true&vCenter=true&width=500&lines=💻+Estudante+de+Desenvolvimento+de+Sistemas;🎧+ATINY+de+coração;🌷+HTML+•+CSS+•+JavaScript" />
 
