@@ -7,7 +7,7 @@
 <p>
   💻 &nbsp;<em>Estudante de Desenvolvimento de Sistemas</em> <br/>
   🎀 &nbsp;<em>ATINY de coração</em> ♡ <br/>
-  🌸 &nbsp;<em>apaixonada por código bonito e bem feito</em>
+  🌸 &nbsp;<em>Apaixonada por CSS!</em>
 </p>
 
 <br/>
@@ -25,9 +25,9 @@
 </div>
 
 <p align="center">
-₊˚ʚ Sou apaixonada por tecnologia e por transformar ideias em código ɞ˚₊<br/>
-✿ Adoro K-pop, design fofo e tudo que envolve criatividade ✿<br/>
-ྀི gosto de aprender, errar, refazer e crescer um pouquinho a cada dia ྀི
+₊˚ʚ Sou apaixonada por estilização ɞ˚₊<br/>
+✿ K-pop, rosa e doramas ✿<br/>
+ྀི Vivendo e aprendendo todos os dias com o VS Code! ྀི
 </p>
 
 <br/>
@@ -39,10 +39,14 @@
 <img src="https://img.shields.io/badge/HTML5-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-FF8DC7?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-FFC4E1?style=for-the-badge&logo=javascript&logoColor=white" />
+
 <br/>
+
 <img src="https://img.shields.io/badge/Flutter-FFB6D9?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-FF8DC7?style=for-the-badge&logo=dart&logoColor=white" />
+
 <br/>
+
 <img src="https://img.shields.io/badge/VS_Code-FFC4E1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-FF8DC7?style=for-the-badge&logo=github&logoColor=white" />
@@ -53,41 +57,26 @@
 
 <div align="center">
 
-### ♡ ࣪ ˖ minhas estatísticas ˖ ࣪ ♡
-
-<a href="https://github.com/SEU_USUARIO">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&title_color=FF8DC7&icon_color=FFB6D9&text_color=555&bg_color=FFF5F9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&title_color=FF8DC7&text_color=555&bg_color=FFF5F9" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=highcontrast&hide_border=true&background=FFF5F9&stroke=FFB6D9&ring=FF8DC7&fire=FF8DC7&currStreakLabel=FF8DC7&sideLabels=555&dates=999" height="170" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 𓆩♡𓆪 ࣪ ˖ vamos conversar? ˖ ࣪ 𓆩♡𓆪
 
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF8DC7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/SEU_INSTA">
+<a href="https://instagram.com/baessowz">
   <img src="https://img.shields.io/badge/Instagram-FFB6D9?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://discord.com/users/SEU_ID">
-  <img src="https://img.shields.io/badge/Discord-FFC4E1?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+
+<img src="https://img.shields.io/badge/Discord-FFC4E1?style=for-the-badge&logo=discord&logoColor=white" />
 
 <br/><br/>
+
+<p>
+  📸 Instagram: <strong>@baessowz</strong>
+  <br/>
+  🎮 Discord: <strong>clacohen_</strong>
+</p>
 
 <p>
   ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp; obrigada por visitar meu perfil! &nbsp; ૮ ˶ˆ ﻌ ˆ˶ ა
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=visitinhas&color=FF8DC7&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
 
 </div>
