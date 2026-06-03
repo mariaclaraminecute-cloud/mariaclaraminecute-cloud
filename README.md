@@ -26,8 +26,7 @@
 
 <p align="center">
 ₊˚ʚ Sou apaixonada por estilização ɞ˚₊<br/>
-✿ K-pop, rosa e doramas ✿<br/>
-ྀི Vivendo e aprendendo todos os dias com o VS Code! ྀི
+✿ K-pop, rosa e dorama ✿<br/>
 </p>
 
 <br/>
