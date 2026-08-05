@@ -66,9 +66,9 @@
 <br/><br/>
 
 <p>
-  📸 Instagram: <strong>@baessowz</strong>
+  Instagram: <strong>@baessowz</strong>
   <br/>
-  🎮 Discord: <strong>clacohen_</strong>
+  Discord: <strong>clacohen_</strong>
 </p>
 
 <p>
