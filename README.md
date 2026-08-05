@@ -6,8 +6,7 @@
 
 <p>
   💻 &nbsp;<em>Estudante de Desenvolvimento de Sistemas</em> <br/>
-  🎀 &nbsp;<em>ATINY de coração</em> ♡ <br/>
-  🌸 &nbsp;<em>Apaixonada por CSS!</em>
+  🌸 &nbsp;
 </p>
 
 <br/>
