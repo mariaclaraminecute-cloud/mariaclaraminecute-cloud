@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7E5,50:FFB6D9,100:FF8DC7&height=130&section=header" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&pause=1000&color=FF8DC7&center=true&vCenter=true&width=600&lines=Oii%2C+eu+sou+a+Clara+%E2%99%A1;Estudante+de+Desenvolvimento+de+Sistemas" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&pause=1000&color=FF8DC7&center=true&vCenter=true&width=600&lines=Oii%2C+eu+sou+a+Clara+%E2%99%A1;Estudante+de+Desenvolvimento+de+Sistemas" alt="Oii, eu sou a Clara ♡" />
 
-
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaclaraminecute-cloud&hide_border=true&background=FFF7FA&ring=FF8DC7&fire=FF8DC7&currStreakLabel=FF8DC7&sideLabels=4A3A42&dates=4A3A42&currStreakNum=4A3A42&sideNums=4A3A42" />
 
-
+</div>
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-
+<div align="center">
 
 ## 𓆩♡𓆪 vamos conversar?
 
