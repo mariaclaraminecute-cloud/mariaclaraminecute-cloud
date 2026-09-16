@@ -10,6 +10,10 @@
 
 📍 Brasil
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
+
 </div>
 
 <br/>
@@ -31,6 +35,16 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraminecute-cloud&layout=compact&langs_count=6&hide_border=true&bg_color=FFF7FA&title_color=FF8DC7&text_color=4A3A42" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mariaclaraminecute-cloud&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -99,9 +113,5 @@
 <br/><br/>
 
 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
 
 </div>
