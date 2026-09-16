@@ -5,8 +5,8 @@
 <br/>
 
 <p>
-  💻 &nbsp;<em>Estudante de Desenvolvimento de Sistemas</em> <br/>
-  📍 &nbsp;São Paulo, Brasil
+   &nbsp;<em>Estudante de Desenvolvimento de Sistemas</em> <br/>
+   &nbsp;São Paulo, Brasil
 </p>
 
 <br/>
