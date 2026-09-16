@@ -17,21 +17,6 @@
 
 ---
 
-<div align="center">
-
-### ⊹ ࣪ ˖ sobre mim ˖ ࣪ ⊹
-
-</div>
-
-<div align="center">
-
-📍 São Paulo, Brasil
-🎂 17 anos
-💻 Desenvolvimento de Sistemas
-
-</div>
-
-<br/>
 
 <div align="center">
 
