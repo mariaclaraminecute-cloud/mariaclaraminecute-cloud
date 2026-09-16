@@ -10,10 +10,6 @@
 
 📍 Brasil
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
-
 </div>
 
 <br/>
@@ -22,19 +18,11 @@
 
 ## ♡ GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=mariaclaraminecute-cloud&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF7FA&title_color=FF8DC7&icon_color=FF8DC7&text_color=4A3A42&ring_color=FFB6D9" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaclaraminecute-cloud&hide_border=true&background=FFF7FA&ring=FF8DC7&fire=FF8DC7&currStreakLabel=FF8DC7&sideLabels=4A3A42&dates=4A3A42&currStreakNum=4A3A42&sideNums=4A3A42" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaclaraminecute-cloud&bg_color=FFF7FA&color=4A3A42&line=FF8DC7&point=FFB6D9&area=true&hide_border=true" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraminecute-cloud&layout=compact&langs_count=6&hide_border=true&bg_color=FFF7FA&title_color=FF8DC7&text_color=4A3A42" />
 
 </div>
 
@@ -113,5 +101,9 @@
 <br/><br/>
 
 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
 
 </div>
