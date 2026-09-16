@@ -44,23 +44,7 @@
 
 <br/>
 
-<div align="center">
 
-## ୨୧ projetos ୨୧
-
-<a href="#">
-<img src="https://img.shields.io/badge/♡%20LupTok-FFB6D9?style=for-the-badge&labelColor=3A3034" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/♡%20outros%20projetos-FFC4E1?style=for-the-badge&labelColor=3A3034" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ## 𓆩♡𓆪 vamos conversar?
 
