@@ -63,6 +63,6 @@
   ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp; obrigada por visitar meu perfil! &nbsp; ૮ ˶ˆ ﻌ ˆ˶ ა
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7" />
 
 </div>
