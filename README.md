@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7E5,50:FFB6D9,100:FF8DC7&height=130&section=header" width="100%"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&pause=1000&color=FF8DC7&center=true&vCenter=true&width=600&lines=Oii%2C+eu+sou+a+Clara+%E2%99%A1;Estudante+de+Desenvolvimento+de+Sistemas" alt="Header" />
 
 <br/>
 
 📍 Brasil
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7E5,50:FFB6D9,100:FF8DC7&height=130&section=header" width="100%"/>
 
 </div>
 
@@ -18,13 +18,7 @@
 
 ## ♡ GitHub
 
-<a href="https://github.com/mariaclaraminecute-cloud">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariaclaraminecute-cloud&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=FF8DC7&icon_color=FF8DC7&text_color=4A3A42&ring_color=FFB6D9&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/mariaclaraminecute-cloud">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraminecute-cloud&layout=donut&hide_border=true&bg_color=FFF7FA&title_color=FF8DC7&text_color=4A3A42&langs_count=6" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=mariaclaraminecute-cloud&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF7FA&title_color=FF8DC7&icon_color=FF8DC7&text_color=4A3A42&ring_color=FFB6D9" />
 
 <br/><br/>
 
@@ -33,6 +27,10 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaclaraminecute-cloud&bg_color=FFF7FA&color=4A3A42&line=FF8DC7&point=FFB6D9&area=true&hide_border=true" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraminecute-cloud&layout=compact&langs_count=6&hide_border=true&bg_color=FFF7FA&title_color=FF8DC7&text_color=4A3A42" />
 
 </div>
 
