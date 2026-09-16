@@ -6,21 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&pause=1000&color=FF8DC7&center=true&vCenter=true&width=600&lines=Oii%2C+eu+sou+a+Clara+%E2%99%A1;Estudante+de+Desenvolvimento+de+Sistemas" alt="Header" />
 
-<br/>
 
-📍 Brasil
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## ♡ GitHub
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaclaraminecute-cloud&hide_border=true&background=FFF7FA&ring=FF8DC7&fire=FF8DC7&currStreakLabel=FF8DC7&sideLabels=4A3A42&dates=4A3A42&currStreakNum=4A3A42&sideNums=4A3A42" />
 
-</div>
+
 
 <br/>
 
