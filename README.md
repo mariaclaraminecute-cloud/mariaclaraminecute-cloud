@@ -54,15 +54,15 @@
 
 <img src="https://img.shields.io/badge/Discord-FFC4E1?style=for-the-badge&logo=discord&logoColor=4A3A42" />
 
-<br/><br/>
+<br/>
 
 <strong>@baessowz</strong> · <strong>clacohen_</strong>
 
-<br/><br/>
+<br/>
 
 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
 
